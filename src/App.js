@@ -58,15 +58,15 @@ function App() {
       link: "https://taylanhomes.com"
     },
     {
-      title: "Exam Security System",
-      desc: "The Exam Security System is a comprehensive web application designed to digitize and secure physical university examinations.",
+      title: "Sınav Güvenlik Sistemi",
+      desc: "Sınav Güvenlik Sistemi, fiziksel üniversite sınavlarını dijitalleştirmek ve güvenliğini sağlamak için tasarlanmış kapsamlı bir web uygulamasıdır.",
       stack: ["React", "Flask", "PostgreSQL" , "ML" , "Python"],
       img: examSecImg, // Import ettiğimiz resim,
       link : "https://examsec.vercel.app"
     },
     {
       title: "Kelime Zinciri",
-      desc: "SQL veritabanı mimarisi üzerine kurulu, .NET tabanlı kapsamlı üniversite yönetim sistemi backend projesi.",
+      desc: "Kelime Zinciri, kullanıcıların herhangi bir uygulama indirmesine veya üyelik oluşturmasına gerek kalmadan, sadece bir link üzerinden arkadaşlarıyla gerçek zamanlı (real-time) olarak kelime düellosu yapabildiği, sürtünmesiz (frictionless) bir web tabanlı mobil oyundur.",
       stack: ["Dart", "HTML5", "CSS3","Firebase", "Flutter","JavaScript"],
       img: kelimezinciriImg, // Import ettiğimiz resim
       link: "https://kelimezinciri.com.tr"
