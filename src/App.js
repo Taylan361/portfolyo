@@ -10,6 +10,7 @@ import './App.css';
 import profilResmi from './profil.jpg';
 import taylanHomesImg from './taylanhomes.png'; 
 import examSecImg from './examsec.png';
+import kelimezinciriImg from './kelimezinciri.png';
 
 function App() {
   
@@ -64,10 +65,11 @@ function App() {
       link : "https://examsec.vercel.app"
     },
     {
-      title: "Öğrenci Otomasyonu",
+      title: "Kelime Zinciri",
       desc: "SQL veritabanı mimarisi üzerine kurulu, .NET tabanlı kapsamlı üniversite yönetim sistemi backend projesi.",
-      stack: ["SQL", "C#", ".NET"],
-      img: null
+      stack: ["Dart", "HTML5", "CSS3","Firebase", "Flutter","JavaScript"],
+      img: kelimezinciriImg, // Import ettiğimiz resim
+      link: "https://kelimezinciri.com.tr"
     }
   ];
 
